@@ -6,3 +6,5 @@ A simple Thread Pool.
  The thread will then sleep until there are new tasks available.
  Use Makefile to compile the files. ./a.out -> will run the project.
  Finally, the program will print "hello" 5 times.
+ 
+ ![image](https://user-images.githubusercontent.com/71548980/123645330-ebbc1800-d82e-11eb-859a-a6d8814c96ab.png)
