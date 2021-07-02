@@ -1,4 +1,4 @@
-// Shir Zituni 316537992
+// Shir Zituni 
 #ifndef __THREAD_POOL__
 #define __THREAD_POOL__
 
